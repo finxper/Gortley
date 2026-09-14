@@ -1,0 +1,43 @@
+@import url("https://googleapis.com");
+
+* {
+  color: rgb(96, 156, 125);
+}
+
+body {
+  background-color: #1e1f28;
+  height: 100vh;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  font-family: "Special Elite", cursive;
+}
+
+h1 {
+  text-align: center;
+  color: #ababc9;
+  font-size: 38px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 28px;
+  color: #8dc1da;
+  margin-bottom: 5px;
+}
+
+h3 {
+  font-size: 1.1em;
+  color: #777edb;
+}
+
+.project img {
+  width: 580px;
+  height: 480px;
+}
+
+a {
+  color: green;
+  margin: auto;
+  font-size: 20px;
+}
